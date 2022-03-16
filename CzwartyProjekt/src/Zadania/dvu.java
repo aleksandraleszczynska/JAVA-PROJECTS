@@ -25,7 +25,7 @@ File plik = new File ("tak.txt");
 		}
 		
 		
-		System.out.println(suma);
+		System.out.println("suma = " + suma);
 
 	}
 
